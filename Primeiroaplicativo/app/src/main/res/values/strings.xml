@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ste app</string>
+    <string name="text">Olá mundo</string>
+    <string name="buttonMensagem">Mensagem</string>
+    <string name="buttonContar">Contar</string>
+    <string name="button2">button2</string>
+</resources>
